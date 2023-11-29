@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+
+  br
+
+  each item in movieList
+        li #{item.title}
+  br
+
+  p Error: #{errMessage}
+
