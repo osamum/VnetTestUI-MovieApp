@@ -1,0 +1,2 @@
+# VnetTestUI-MovieApp
+Azure App Service の仮想ネットワーク統合を使用して仮想ネットワーク内のリソースへのアクセスを検証するためのものです
